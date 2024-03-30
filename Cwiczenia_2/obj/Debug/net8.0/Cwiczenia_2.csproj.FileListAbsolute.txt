@@ -1,0 +1,14 @@
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\obj\Debug\net8.0\Cwiczenia_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\obj\Debug\net8.0\Cwiczenia_2.AssemblyInfoInputs.cache
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\obj\Debug\net8.0\Cwiczenia_2.AssemblyInfo.cs
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\obj\Debug\net8.0\Cwiczenia_2.csproj.CoreCompileInputs.cache
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\bin\Debug\net8.0\Cwiczenia_2.exe
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\bin\Debug\net8.0\Cwiczenia_2.deps.json
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\bin\Debug\net8.0\Cwiczenia_2.runtimeconfig.json
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\bin\Debug\net8.0\Cwiczenia_2.dll
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\bin\Debug\net8.0\Cwiczenia_2.pdb
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\obj\Debug\net8.0\Cwiczenia_2.dll
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\obj\Debug\net8.0\refint\Cwiczenia_2.dll
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\obj\Debug\net8.0\Cwiczenia_2.pdb
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\obj\Debug\net8.0\Cwiczenia_2.genruntimeconfig.cache
+C:\Users\Eryk\RiderProjects\Cwiczenia_2\Cwiczenia_2\obj\Debug\net8.0\ref\Cwiczenia_2.dll
